@@ -1,3 +1,12 @@
+## vue-easytable
+
+#### git 地址： https://github.com/LvHuaiSheng/vue-easytable
+
+#### fork 自： https://github.com/Happy-Coding-Clans/vue-easytable
+
+1. 修改 table 获取右键菜单代码的执行位置，使在 beforeShow 修改菜单后立即生效
+2.
+
 [![npm](https://img.shields.io/npm/v/vue-easytable.svg)](https://www.npmjs.com/package/vue-easytable)
 [![vue2](https://img.shields.io/badge/vue-2.6+-brightgreen.svg)](https://vuejs.org/)
 [![NPM downloads](https://img.shields.io/npm/dm/vue-easytable.svg?style=flat)](https://npmjs.org/package/vue-easytable)
