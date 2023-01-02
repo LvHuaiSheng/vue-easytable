@@ -584,7 +584,7 @@ export function setBodyContextmenuOptions({
             selectionRangeIndexes.startColIndex +
             1;
 
-        const { contextmenus, beforeShow } = contextmenuBodyOption;
+        const { beforeShow } = contextmenuBodyOption;
 
         const isWholeRowSelection = !isEmptyValue(
             bodyIndicatorRowKeys.startRowKey,
@@ -596,7 +596,7 @@ export function setBodyContextmenuOptions({
                 selectionRangeIndexes,
             });
         }
-
+        const { contextmenus } = contextmenuBodyOption;
         const bodyContextmenuOptionCollection =
             getBodyContextmenuOptionCollection(t);
 
